@@ -1,0 +1,53 @@
+index.html
+<html lang="pt-br">
+
+<head>
+    <link rel="stylesheet" href="style.css" />
+    <title>HooperPage</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <header>Hooper Page</header>
+    <section class="chamada">
+        <div class="titulo-video">
+            <h1> Melhores Momentos Da Historia Do Basquete</h1>
+        </div>
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Szcx7YFfxQg?si=Tr6WgiXZzYLfLWcZ"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>#ballislife</p>
+            <p>#hooper</p>
+        </div>
+    </section>
+    <section class="fila">
+        <h2>melhores bandejas basquete</h2>
+        <div class="fila-video">
+           <a href="https://www.youtube.com/watch?v=KZFGolVr93I">
+        <img src="https://img.youtube.com/vi//maxresdefault.jpg"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=rAWo-SWSBtM">
+        <img src="https://img.youtube.com/vi//maxresdefault.jpg"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=0X4y316ZIcI">
+        <img src="https://img.youtube.com/vi//maxresdefault.jpg"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=w7dgNFw_BM">
+        <img src="https://img.youtube.com/vi//maxresdefault.jpg"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=o149sAJFe5M">
+        <img src="https://img.youtube.com/vi//maxresdefault.jpg"/>
+    </a>
+    <a href="https://www.youtube.com/watch?v=Hz1hKh9u-js">
+        <img src="https://img.youtube.com/vi//maxresdefault.jpg"/>
+    </a>
+        </div>
+    </section>
+</body>
+
+</html>
